@@ -1,2 +1,2 @@
 # .github
-General Information about the Organization.
+Upcoming Statistics and Analytics Site around Brawl Stars.
